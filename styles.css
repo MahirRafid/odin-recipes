@@ -1,18 +1,28 @@
 body{
     background-color: white;
     text-align: center;
-    font-family: 'Lexend', sans-serif;
 }
 
-.indexH1, .indexH3{
+a, li{
+    text-decoration: none;
+    font-family: "Lexend";
+}
+
+h1, h3{
     color: #e60000;
-    font-family: 'Lobster', cursive;
+    font-family: "Lobster";
+    
 }
 
-.indexH1{
+h1{
     font-size: 2.5rem;
 }
 
-.indexH3{
+h3{
     font-size: 1.25rem;
+}
+
+.ingredients, .steps{
+    margin: 0px 300px;
+    text-align: left;
 }
