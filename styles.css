@@ -22,6 +22,10 @@ h3{
     font-size: 1.25rem;
 }
 
+.recipeList{
+    margin: auto;
+}
+
 .ingredients, .steps{
     margin: 0px 300px;
     text-align: left;
